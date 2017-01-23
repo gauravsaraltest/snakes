@@ -1,4 +1,4 @@
-Snakes-and-Ladders1
+Snakes-and-Ladders Boo
 ==================
 
 A simple snake and ladder logic game build with angular js.
