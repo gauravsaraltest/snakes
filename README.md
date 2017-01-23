@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby dsdsd2dedd
+Snakes-and-Ladders scooby d3d3d
 ==================
 
 A simple snake and ladder logic game build with angular js.
