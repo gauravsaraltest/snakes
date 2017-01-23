@@ -1,4 +1,4 @@
-Snakes-and-Ladders Boo Boi
+Snakes-and-Ladders noom
 ==================
 
 A simple snake and ladder logic game build with angular js.
