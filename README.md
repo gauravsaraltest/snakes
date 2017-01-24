@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update is this for real
+Snakes-and-Ladders scooby update is kailasha
 ==================
 
 A simple snake and ladder logic game build with angular js.
