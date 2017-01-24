@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update is kailasha
+Snakes-and-Ladders scooby update is sonu nigam
 ==================
 
 A simple snake and ladder logic game build with angular js.
