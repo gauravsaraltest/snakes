@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update alpha
+Snakes-and-Ladders scooby update beta
 ==================
 
 A simple snake and ladder logic game build with angular js.
