@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update is sonu nigam2
+Snakes-and-Ladders scooby update is coke studio
 ==================
 
 A simple snake and ladder logic game build with angular js.
