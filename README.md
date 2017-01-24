@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update is coke studio season 12
+Snakes-and-Ladders scooby update is coke studio season 13
 ==================
 
 A simple snake and ladder logic game build with angular js.
