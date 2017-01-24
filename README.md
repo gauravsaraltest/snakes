@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update gamma
+Snakes-and-Ladders scooby update is this for real
 ==================
 
 A simple snake and ladder logic game build with angular js.
