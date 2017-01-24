@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby new day update
+Snakes-and-Ladders scooby one new update
 ==================
 
 A simple snake and ladder logic game build with angular js.
