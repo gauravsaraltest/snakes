@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update is coke studio season 321312312
+Snakes-and-Ladders scooby update is coke studio season new day
 ==================
 
 A simple snake and ladder logic game build with angular js.
