@@ -1,4 +1,4 @@
-Snakes-and-Ladders scooby update is coke studio season few more commits
+Snakes-and-Ladders scooby update is coke studio season few more commitszz
 ==================
 
 A simple snake and ladder logic game build with angular js.
