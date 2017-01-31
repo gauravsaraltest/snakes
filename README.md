@@ -3,7 +3,7 @@ Snakes-and-Ladders scooby update is coke studio season few more new coke studio
 
 A simple snake and ladder logic game build with angular js.
 
-Author - [Harshita Kasera](https://github.com/hkasera)
+Author - [Harshita Kasera](https://github.com/hkasera)dsada
 
 License - MIT
 
