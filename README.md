@@ -8,7 +8,7 @@ Author - [Harshita Kasera](https://github.com/hkasera)dsada
 License - MIT
 
 
-### DEMO
+### DEMOdsadas
 
 Click <a href="http://harshitakasera.com/projects/snl/game" target="_blank">here</a> to see a working demo of the game.
 sdadadas
