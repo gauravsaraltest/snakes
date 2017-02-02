@@ -1,4 +1,4 @@
-Snakes-and-Ladders na na
+Snakes-and-Ladders tota maina
 ==================
 
 A simple snake and ladder logic game build with angular js.
