@@ -1,4 +1,4 @@
-Snakes-and-Ladders why why?
+Snakes-and-Ladders waah waah
 ==================
 
 A simple snake and ladder logic game build with angular js.
