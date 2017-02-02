@@ -1,4 +1,4 @@
-Snakes-and-Ladders tota maina
+Snakes-and-Ladders kashmir
 ==================
 
 A simple snake and ladder logic game build with angular js.
