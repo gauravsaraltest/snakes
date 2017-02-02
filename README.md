@@ -1,4 +1,4 @@
-Snakes-and-Ladders waah waah
+Snakes-and-Ladders tauba tauba
 ==================
 
 A simple snake and ladder logic game build with angular js.
