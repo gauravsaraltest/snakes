@@ -1,4 +1,4 @@
-Snakes-and-Ladders boom 7
+Snakes-and-Ladders boom 8
 ==================
 
 A simple snake and ladder logic game build with angular js.
